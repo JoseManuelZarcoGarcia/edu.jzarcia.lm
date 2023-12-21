@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+.inicio{
+	background:rgb(128, 255, 128);
+	padding: 3%;
+	text-decoration: none;
+	color:white;
+	
+}
+
+aside{
+	width: 15%;
+	float:left;
+	border:solid black;
+	background-color: ghostwhite;
+	overflow: hidden;
+	color: black;
+}
+
+.derecha{
+	float:right;
+}
+
+.sininfo1{
+	margin-left: 2%;
+}
+
+.sininfo2{
+	margin-right: 2%;
+}
+
+nav{
+	display: flex;
+	background: black;
+	padding: 1rem;
+}
+main{
+	background: lightgoldenrodyellow;
+	padding: 2rem;
+}
+
+footer{
+	clear: both;
+	margin-top:8rem;
+	background: grey;
+	padding: 1rem;
+}
+
+
+.jamon{
+	text-align: center;
+	font-size: 2rem;
+	color:white;	
+	
+}
+.textaco{
+	
+	font-size: 32px;
+	color:black;	
+	
+}
+
+
+h1{
+	text-align: center;
+	font-size: 2rem;
+	color: plum;
+}
+a+a{
+	margin-left: 30%;
+}
+
+img+h1{
+	margin-left: 40px;
+}
+
+h1+img{
+	margin-right: 40px;
+}
+
+.botones1{
+	
+	display: block;
+	width:28%;
+	height:3rem;
+	border:  dashed 1px red;
+	background-color: black;
+	text-align: center;
+	text-decoration: none;
+	color:white;
+	margin-left: 10%;
+}
+
+.botones2{
+	
+	display: block;
+	width:28%;
+	height:3rem;
+	border: dashed 1px red;
+	background-color: black;
+	text-align: center;
+	text-decoration: none;
+	color:white;
+	margin-right: 10%;
+}
+
+.piepag{
+	color:black;
+	margin-left: 40%;
+	font-size: 1.25rem;
+	
+}
+
+.navpag{
+	
+	size-adjust: 10;
+}
+
+.productosventa{
+	text-align: center;
+	font-size: 2rem;
+	color: gray;
+}
